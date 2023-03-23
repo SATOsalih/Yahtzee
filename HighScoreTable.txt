@@ -1,0 +1,10 @@
+Ali 140
+Cem 150
+Player1 110
+Player1 110
+Player1 110
+Player2 100
+Can 100
+Player2 90
+Player1 90
+Ece 90
